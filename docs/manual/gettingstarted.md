@@ -11,7 +11,7 @@ Not all libraries are required for all use cases, but each library builds upon t
 In this chapter we discuss:
 
 - [**Download**](download.md) : Downloading precompiled binary packages of MixedReality-WebRTC.
-- [**Installation**](installation.md) : How to install the various libraries for use in your poject.
+- [**Installation**](installation.md) : How to install the various libraries for use in your project.
 - [**Building from sources**](building.md) : Building the MixedReality-WebRTC from sources.
 - [**Hello, C# world! (Desktop)**](cs/helloworld-cs-core3.md) : Your first C# .NET Core 3.0 application based on the C# library.
 - [**Hello, C# world! (UWP)**](cs/helloworld-cs-uwp.md) : Your first C# UWP application based on the C# library.
